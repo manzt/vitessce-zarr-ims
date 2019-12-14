@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
 import { openArray } from "zarr";
 import Heatmap from "./components/Heatmap";
 
